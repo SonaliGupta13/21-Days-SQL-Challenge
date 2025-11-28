@@ -98,6 +98,6 @@ I have included all supporting files used to complete the capstone:
 
 The final query returns a clean, single-column result:
 
-###**killer**
+**killer**
 -------------------
 David Kumar
