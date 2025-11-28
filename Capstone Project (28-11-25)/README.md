@@ -97,6 +97,7 @@ I have included all supporting files used to complete the capstone:
 ## 7. Final Output Query Format
 
 The final query returns a clean, single-column result:
-**killer**
+
+###**killer**
 -------------------
 David Kumar
