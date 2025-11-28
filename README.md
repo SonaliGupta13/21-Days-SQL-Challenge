@@ -3,6 +3,13 @@ Welcome to my submission repository for the 21 Days SQL Challenge hosted by Indi
 
 This challenge is designed to build and strengthen SQL skills from beginner to advanced through daily problem-solving, datasets, and real-world scenarios.
 
+<p align="center">
+  <img src="./Badges/7daybadge.jpeg" width="300" />
+  <img src="./Badges/14daybadge.jpeg" width="300" />
+  <img src="./Badges/21daybadge.jpeg" width="300" />
+</p>
+
+
 ### 🚀 About the Challenge
 The 21 Days SQL Challenge focuses on hands-on learning - from SQL fundamentals to advanced analytical queries.
 
